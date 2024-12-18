@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/jalagari/demo/main
+    url: https://author-p35437-e1492901.adobeaemcloud.com/bin/franklin.delivery/ujjwal5/forms-lab/main
     type: "markup"
     suffix: ".html"
