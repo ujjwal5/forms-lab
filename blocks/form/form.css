@@ -271,11 +271,12 @@ main .form form .item-remove {
     padding: 0;
     background: #fff;
     padding-left: 10px;
+    display: none;
 }
 
 main .form form .item-add {
     overflow: unset;
-    display: flex;
+    display: none;
     justify-content: center;
 }
 
